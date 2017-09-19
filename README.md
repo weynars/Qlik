@@ -1,2 +1,2 @@
 # Qlik Sense App
-Australian Universities data
+Analyse Australian Universities performance metrics (success, attrition and retantion) and their finance (revenues and expenses).
